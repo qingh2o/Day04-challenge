@@ -21,7 +21,7 @@ N/A
 
 To use this Day04-challenge,  you can review each file. 
 
-To check whether the Horiseon webpage meets accessibility requirements, open the webpage [link](https://qingh2o.github.io/DDay04-challenge/).
+To check whether the Horiseon webpage meets accessibility requirements, open the webpage [link](https://qingh2o.github.io/Day04-challenge/).
 
 Once the Horiseon web page loads, open Chrome DevTools by right-clicking the page and selecting "Inspect". A Elements panel should open either below or to the side of the webpage in the browser. There you will see the title, semantic HTML tags, 'alt' attributes, logical structure, and heading levels. As you click on each element, you will see all styles and positions for each element on the Styles panel.
 
